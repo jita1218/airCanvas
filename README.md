@@ -29,4 +29,4 @@ AirCanvas is a hand-gesture-based drawing application built using Python, OpenCV
 - **Quit:** Press `q` to exit the application.
 
 ## Acknowledgments
-I would like to thank Aryan (https://github.com/infoaryan) for their excellent tutorial on creating an AirCanvas. This project was inspired by his [YouTube video](https://youtu.be/T7sjrWc4QEc?si=CXAkRszBN9nETBMv) that guided me through the hand-tracking and drawing techniques using Python, OpenCV, and Mediapipe.
+I would like to thank [Aryan](https://github.com/infoaryan) for their excellent tutorial on creating an AirCanvas. This project was inspired by his [YouTube video](https://youtu.be/T7sjrWc4QEc?si=CXAkRszBN9nETBMv) that guided me through the hand-tracking and drawing techniques using Python, OpenCV, and Mediapipe.
