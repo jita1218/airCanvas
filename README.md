@@ -11,6 +11,9 @@ AirCanvas is a hand-gesture-based drawing application built using Python, OpenCV
 - Real-time hand and finger tracking powered by Mediapipe
 
 ## Demo
+![Screenshot (590)](https://github.com/user-attachments/assets/c2da9d6b-347e-46cb-ad0c-be5d9be7d889)
+
+![Screenshot (591)](https://github.com/user-attachments/assets/9f7d2a2c-af14-4354-a4cb-a579a00280a5)
 
 
 ## How It Works
